@@ -39,16 +39,16 @@ To write code in Python, you can use any text editor or integrated development e
 
 Python has a wide range of libraries available that provide additional functionality for different tasks. Some of the most popular libraries include:
 
-| Library      | Syntax                                                   |
+| **Library**      | **Syntax**                                           |
 | -----------  | -------------------------------------------------------  |
-| NumPy        | A library for working with arrays and matrices.          |
-| Pandas       | A library for working with data frames and data analysis.|
-| Matplotlib   | A library for creating visualizations and plots.         |
-| Scikit-learn | A library for machine learning and data mining.          |
+| **NumPy**        | A library for working with arrays and matrices.          |
+| **Pandas**       | A library for working with data frames and data analysis.|
+| **Matplotlib**   | A library for creating visualizations and plots.         |
+| **Scikit-learn** | A library for machine learning and data mining.          |
 
 # Python Functions
 
-Python functions are blocks of code that can be reused multiple times. A function is defined using the def keyword, followed by the function name and a set of parentheses. The 'code' inside the function is executed when the function is called.
+Python functions are blocks of code that can be reused multiple times. A function is defined using the def keyword, followed by the function name and a set of parentheses. The `code` inside the function is executed when the function is called.
 
 For example, the following code defines a function called greet that prints a message:
 
@@ -61,3 +61,27 @@ greet("John")
 ```
 
 When the code is run, it will print "Hello, John".
+
+# Built-in Functions
+
+Python has a variety of built-in functions that can be used to perform a wide range of tasks, such as:
+
+| **Function** | **Description**                                                           |
+| -----------  | ------------------------------------------------------------------------  |
+| `print()`    |The print function is used to display output to the console.               |
+| `len()`      |  The len function is used to find the length of a string or a list.       |
+| `str()`      | The str function is used to convert a value to a string.                  |
+| `int()`      | The int function is used to convert a value to an integer                 |
+| `min()`      |The min function is used to find the minimum value in a list or a string.  |
+| `max()`      | The max function is used to find the maximum value in a list or a string. |
+
+#Conclusion
+
+Python is a powerful, high-level programming language that is widely used in many different fields. Its simple, easy-to-read syntax makes it an ideal choice for beginners and experts alike, and its large community of developers ensures that there is always support and resources available. With a wide range of libraries available for different tasks, Python is a versatile choice for any programmer.
+
+As the famous computer scientist, Guido van Rossum, the creator of Python, said:
+
+Python is an easy-to-use programming language for people who want to express concepts in code. It has a simple syntax, large community, and vast libraries for a variety of tasks. That's why I love it.
+
+#Resources
+
