@@ -45,6 +45,7 @@ Python has a wide range of libraries available that provide additional functiona
 | **Pandas**       | A library for working with data frames and data analysis.|
 | **Matplotlib**   | A library for creating visualizations and plots.         |
 | **Scikit-learn** | A library for machine learning and data mining.          |
+| |  |
 
 # Python Functions
 
@@ -74,6 +75,7 @@ Python has a variety of built-in functions that can be used to perform a wide ra
 | `int()`      | The int function is used to convert a value to an integer                 |
 | `min()`      |The min function is used to find the minimum value in a list or a string.  |
 | `max()`      | The max function is used to find the maximum value in a list or a string. |
+| |  |
 
 # Conclusion
 
