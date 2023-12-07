@@ -93,3 +93,7 @@ Here are some helpful resources for learning more about Python:
 - [Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook)- A free online book that provides a comprehensive introduction
 
 
+# Photo
+
+![Photo by <a href="https://unsplash.com/@neom?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">NEOM</a> on <a href="https://unsplash.com/photos/a-woman-standing-in-front-of-a-rock-formation-_TFgiFZyH6M?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  ](./photo.jpg)
