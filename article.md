@@ -95,5 +95,8 @@ Here are some helpful resources for learning more about Python:
 
 # Photo
 
-![Photo by <a href="https://unsplash.com/@neom?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">NEOM</a> on <a href="https://unsplash.com/photos/a-woman-standing-in-front-of-a-rock-formation-_TFgiFZyH6M?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-  ](./photo.jpg)
+![](./photo.jpg)
+  
+*Image source: [Photo by <a href="https://unsplash.com/@neom?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">NEOM</a> on <a href="https://unsplash.com/photos/a-woman-standing-in-front-of-a-rock-formation-_TFgiFZyH6M?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  ]()*
+
